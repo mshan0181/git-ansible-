@@ -9,4 +9,4 @@
         state: present
         name:
          - tcsh
-         - htop
+         - mysql
